@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plusMinus", "HackerRank\plu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{19FA4D34-4C10-47CE-B607-2187738DC365}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingStrings", "MatchingStrings\MatchingStrings.csproj", "{275C4073-CD9E-4C86-A9D4-99F958C58AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{19FA4D34-4C10-47CE-B607-2187738DC365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19FA4D34-4C10-47CE-B607-2187738DC365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19FA4D34-4C10-47CE-B607-2187738DC365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275C4073-CD9E-4C86-A9D4-99F958C58AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275C4073-CD9E-4C86-A9D4-99F958C58AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275C4073-CD9E-4C86-A9D4-99F958C58AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275C4073-CD9E-4C86-A9D4-99F958C58AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
