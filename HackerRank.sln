@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingStrings", "Matching
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{B3281682-5DDE-4601-A1C3-8F4970F111DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3281682-5DDE-4601-A1C3-8F4970F111DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3281682-5DDE-4601-A1C3-8F4970F111DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3281682-5DDE-4601-A1C3-8F4970F111DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3281682-5DDE-4601-A1C3-8F4970F111DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
