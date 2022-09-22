@@ -5,13 +5,17 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plusMinus", "HackerRank\plusMinus.csproj", "{36B85411-DE89-48A6-B0A7-E6DB218B8ACB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{19FA4D34-4C10-47CE-B607-2187738DC365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{19FA4D34-4C10-47CE-B607-2187738DC365}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingStrings", "MatchingStrings\MatchingStrings.csproj", "{275C4073-CD9E-4C86-A9D4-99F958C58AFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingStrings", "MatchingStrings\MatchingStrings.csproj", "{275C4073-CD9E-4C86-A9D4-99F958C58AFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{C18FA30D-2B4D-4953-BFDD-07EA56C741F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{B3281682-5DDE-4601-A1C3-8F4970F111DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{B3281682-5DDE-4601-A1C3-8F4970F111DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlippingBits", "FlippingBits\FlippingBits.csproj", "{1BE1DE23-A313-4E2D-9B85-3C6879CFEE06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{32293466-A277-499F-891D-6487E7EA79A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{B3281682-5DDE-4601-A1C3-8F4970F111DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3281682-5DDE-4601-A1C3-8F4970F111DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3281682-5DDE-4601-A1C3-8F4970F111DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE1DE23-A313-4E2D-9B85-3C6879CFEE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE1DE23-A313-4E2D-9B85-3C6879CFEE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE1DE23-A313-4E2D-9B85-3C6879CFEE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE1DE23-A313-4E2D-9B85-3C6879CFEE06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32293466-A277-499F-891D-6487E7EA79A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32293466-A277-499F-891D-6487E7EA79A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32293466-A277-499F-891D-6487E7EA79A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32293466-A277-499F-891D-6487E7EA79A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
