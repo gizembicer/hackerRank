@@ -1,0 +1,41 @@
+﻿Letters in some of the SOS messages are altered by cosmic radiation during transmission. Given the signal received by Earth as a string, s, determine how many letters of the SOS message have been changed by radiation.
+
+Example
+
+s='SOSTOT'
+
+The original message was SOSSOS. Two of the message's characters were changed in transit.
+
+Function Description
+
+Complete the marsExploration function in the editor below.
+
+marsExploration has the following parameter(s):
+
+string s: the string as received on Earth
+Returns
+
+int: the number of letters changed during transmission
+Input Format
+
+There is one line of input: a single string,s .
+
+Explanation
+
+Sample 0
+
+S = SOSSPSSQSSOR,|S|=12 and signal length . Sami sent 4 SOS messages (i.e.:12 / 3 = 4).
+
+Expected signal: SOSSOSSOSSOS
+Recieved signal: SOSSPSSQSSOR
+
+We print the number of changed letters, which is 3.
+
+Sample 1
+
+S = SOSSOT, and signal length |S| = 6. Sami sent  SOS messages (i.e.:6 / 3 = 2).
+
+Expected Signal: SOSSOS
+Received Signal: SOSSOT
+
+We print the number of changed letters, which is 1.
